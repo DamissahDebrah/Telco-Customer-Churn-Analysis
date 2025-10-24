@@ -74,7 +74,10 @@ This analysis helps the telecom company to:
 ---
 
 ## 📌 Dashboard Preview
-![Telco Customer Churn Analysis Dashboard](your-dashboard-image-link.png)
+
+[Download the Interactive Power BI Dashboard](https://github.com/DamissahDebrah/Telco-Customer-Churn-Analysis/blob/main/Telco%20Churn%20Analysis.pbit)
+  
+
 
 ---
 
